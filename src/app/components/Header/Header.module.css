@@ -1,0 +1,32 @@
+.cabecalho {
+    padding: 0.1% 0 0.1% 0;
+    background-color: var(--cor-primaria);
+}
+
+.menu {
+    color: var(--branco);
+    list-style: none;
+    font-size: 20px;
+}
+
+.Link {
+    color: var(--branco);
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.containerLista {
+    display: flex;
+    gap: 110px;
+}
+
+.containerProfile {
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+}
