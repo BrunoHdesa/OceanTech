@@ -2,8 +2,12 @@
 
 :root {
   --cor-primaria: #20354a;
+  --cor-secundaria: #0F417D;
+  --cor-terciaria: #6495ED;
   --branco: #FFFFFF;
   --preto: #000000;
+  --cinza: #DCDCDC;
+  --vermelho: #dc3545;
 }
 
 body {
