@@ -1,0 +1,21 @@
+.sectionContainer {
+    display: flex;
+    gap: 22px;
+    padding: 0% 7% 5% 7%;
+    background-color: var(--branco);
+}
+
+.title {
+    color: var(--cor-primaria);
+    font-size: 40px;
+}
+
+.paragraph {
+    color: var(--cor-primaria);
+    font-size: 20px;
+}
+
+.imgBanner {
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
