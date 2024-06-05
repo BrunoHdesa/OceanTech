@@ -1,0 +1,5 @@
+.footerStyle {
+    background-color: var(--cinza);
+    border-top: solid 1px var(--preto);
+    height: 10vh;
+}
