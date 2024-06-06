@@ -1,5 +1,13 @@
 .footerStyle {
+    padding: 0.1% 0 0.1% 1%;
     background-color: var(--cinza);
     border-top: solid 1px var(--preto);
-    height: 10vh;
+    font-size: 15px;
+    height: 13vh;
 }
+
+.imgBanner {
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
