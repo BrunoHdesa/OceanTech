@@ -1,4 +1,4 @@
-import style from '../Footer/Footer.module.css'
+import style from "../Footer/Footer.module.css";
 
 const Footer = () => {
     return(

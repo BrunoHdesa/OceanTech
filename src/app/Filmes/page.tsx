@@ -4,7 +4,7 @@ import Sereia from '../assets/sereia-filme.jpg'
 import Onda from '../assets/onda-filme.jpg'
 import Header from "../components/Header/Header";
 import Banner from "../components/Banner/Banner";
-import Footer from '../components/Footer/Footer';
+import Footer from "../components/Footer/Footer";
 
 
 
