@@ -16,8 +16,8 @@ const Header = () => {
                     </div>
                     <div>
                         <ul className={style.containerLista}>
-                            <Link href='/Produtos' className={style.Link}>
-                                <li className={style.menu}>Produtos</li>
+                            <Link href='/Filmes' className={style.Link}>
+                                <li className={style.menu}>Filmes</li>
                             </Link>
                             <Link href='/Sobre' className={style.Link}> 
                                 <li className={style.menu}>Sobre</li>
