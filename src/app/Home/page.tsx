@@ -31,21 +31,21 @@ export default function Home() {
     <section className={style.container}>
           <div className={style.fotosContainer}>
                   <div className={style.subContainerFotos}>
-                      <Image src={Aquecimento} alt="Uma foto do Levi" className={style.foto}/>
+                      <Image src={Aquecimento} alt="Aquecimento global" className={style.foto}/>
                       <span>Aquecimento global</span>
                       <p> A produção, transporte e descarte de plásticos contribuem para as emissões de 
                           gases de efeito estufa, agravando o problema das mudanças climáticas e seus impactos 
                           no oceano, como o aumento da acidificação e o derretimento do gelo polar.</p>
                   </div>
                   <div className={style.subContainerFotos}>
-                      <Image src={Impacto} alt="Uma foto da Vivian" className={style.foto}/>
+                      <Image src={Impacto} alt="Impacto na vida marinha" className={style.foto}/>
                       <span>Impacto na vida marinha</span>
                       <p>Os plásticos podem ser confundidos com comida por animais marinhos, levando 
                           à ingestão acidental e à morte por sufocamento ou bloqueio digestivo. Isso afeta 
                           desde pequenos peixes até grandes mamíferos marinhos.</p>
                   </div>
                   <div className={style.subContainerFotos}>
-                      <Image src={Microplastico} alt="Uma foto da Vivian" className={style.foto}/>
+                      <Image src={Microplastico} alt="Microplastico nos animais" className={style.foto}/>
                       <span>Poluição microplástica</span>
                       <p>Além dos grandes pedaços de plástico visíveis, há também o problema dos 
                           microplásticos, que são pequenas partículas de plástico que podem ser ingeridas 
