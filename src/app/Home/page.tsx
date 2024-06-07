@@ -3,7 +3,7 @@ import Placenta from '../assets/microplasticos-placenta.jpeg'
 import tartaruga from '../assets/foto-tartaruga.jpg'
 import Header from "../components/Header/Header";
 import Banner from "../components/Banner/Banner";
-import Conscientizar from '../components/Conscientizar/Conscientizar';
+import Bannerinverse from '../components/Bannerinverse/Bannerinverse';
 import Footer from '../components/Footer/Footer';
 import Image from "next/image"
 import style from '../Home/page.module.css'
@@ -23,10 +23,10 @@ export default function Home() {
     Milhões de toneladas de plástico são despejadas nos oceanos a cada ano, causando danos
     irreparáveis aos ecossistemas marinhos e à vida selvagem que depende deles.</Banner>
 
-    <Conscientizar titulo="Protegendo Nosso Oceano" img={tartaruga}>O oceano é um tesouro vasto e vital para 
+    <Bannerinverse titulo="Protegendo Nosso Oceano" img={tartaruga}>O oceano é um tesouro vasto e vital para 
     a saúde do nosso planeta. Mas, infelizmente, tem sido tratado como um depósito de lixo, especialmente 
     quando se trata de plásticos. Porém, a questão vai muito além de apenas poluir a paisagem marinha. 
-    Aqui estão algumas razões convincentes para não jogar plásticos no oceano:</Conscientizar>
+    Aqui estão algumas razões convincentes para não jogar plásticos no oceano:</Bannerinverse>
 
     <section className={style.container}>
           <div className={style.fotosContainer}>

@@ -4,7 +4,7 @@ import Banner from "../components/Banner/Banner";
 
 
 
-export default function Home() {
+export default function Sobre() {
   return (
     <>
     <Header/>

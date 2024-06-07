@@ -1,7 +1,7 @@
 import Image, { StaticImageData } from "next/image"
 
 import React from "react"
-import style from '../Conscientizar/Conscientizar.module.css'
+import style from '../Bannerinverse/Bannerinverse.module.css'
 
 interface Props {
     children: React.ReactNode
@@ -9,7 +9,7 @@ interface Props {
     img: StaticImageData
 }
 
-const Conscientizar = ({ titulo, children, img}: Props) => {
+const Bannerinverse = ({ titulo, children, img}: Props) => {
     return(
         <>
         <section className={style.sectionContainer}>
@@ -25,4 +25,4 @@ const Conscientizar = ({ titulo, children, img}: Props) => {
     )
 }
 
-export default Conscientizar
+export default Bannerinverse
