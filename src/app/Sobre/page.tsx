@@ -1,6 +1,7 @@
 import sobre from '../assets/chris-surfista.jpeg'
 import Header from "../components/Header/Header";
 import Banner from "../components/Banner/Banner";
+import Footer from '../components/Footer/Footer';
 
 
 
@@ -17,7 +18,7 @@ export default function Sobre() {
      tecnológicas para limpar os oceanos e gerenciar resíduos nas cidades, utilizando ferramentas modernas 
      como IoT e robôs de limpeza. Nossa missão é garantir um futuro sustentável através da conscientização 
      e inovação tecnológica.</Banner>
-
+    <Footer/>
     </>
   );
 }
