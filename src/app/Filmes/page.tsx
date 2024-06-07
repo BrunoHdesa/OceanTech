@@ -18,7 +18,7 @@ export default function Filmes() {
     uma sereia que sonha em viver na terra firme. Grande parte da história se passa no fundo do mar, apresentando uma 
     variedade de criaturas marinhas e os desafios enfrentados por Ariel em busca de seu desejo.</Banner>
 
-    <Banner titulo="Procurando Dory (2016)" img={Dory}>Sequência de "Procurando Nemo", este filme se concentra
+    <Banner titulo="Procurando Dory (2016)" img={Dory}>Sequência de Procurando Nemo, este filme se concentra
      na peixe cirurgião Dory, enquanto ela embarca em uma jornada para encontrar sua família perdida. Mais uma vez, 
      o oceano desempenha um papel importante na narrativa, com várias aventuras subaquáticas.</Banner>
 
