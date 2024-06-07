@@ -11,7 +11,7 @@ import style from '../Home/page.module.css'
 import Aquecimento from '../assets/aquecimento-global.jpg'
 import Microplastico from '../assets/microplastico.jpg'
 import Impacto from '../assets/impacto-vida-marinha.jpg'
-
+import Explore from '../assets/explore-filmes.jpg'
 
 export default function Home() {
   return (
@@ -59,6 +59,11 @@ export default function Home() {
     a presença de microplásticos na placenta, no leite materno, no sangue, na água e no ar. Numa nova investigação, levada a cabo 
     pela Universidade do Novo México, foram analisadas 62 amostras de placenta e foram detectados microplásticos em todas elas. 
     O estudo foi publicado a 17 de Fevereiro na revista científica Toxicological Sciences.</Banner>
+    
+    <Bannerinverse titulo="Explore o Mundo Subaquático!" img={Explore}>Cliquem na aba Filmes e venham explorar o maravilhoso mundo 
+      subaquático com a gente. Tem muito a descobrir, aprender e se divertir. Vamos mergulhar nessa aventura juntos! Esperamos vocês 
+      para essa jornada pelo fundo do mar. Preparem a pipoca, chamem os amigos e embarquem nessa viagem incrível pelos oceanos. Vai 
+      ser uma experiência inesquecível!</Bannerinverse>
     <Footer/>
     </>
   );
